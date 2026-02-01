@@ -1,6 +1,11 @@
 <p align="center">
+  <img src="https://res.cloudinary.com/dwcnliksx/image/upload/v1766798322/Screenshot_2025-12-27_021655_u1ohkt.png" alt="App Logo" width="120" height="120">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/📱-Mobile%20App-blue?style=for-the-badge" alt="Mobile App">
   <img src="https://img.shields.io/badge/🛍️-Fashion%20E--Commerce-pink?style=for-the-badge" alt="Fashion E-Commerce">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </p>
 
 <h1 align="center">🛍️ Online Clothing Shopping App</h1>
@@ -11,18 +16,24 @@
 </p>
 
 <p align="center">
+  <img src="https://res.cloudinary.com/dwcnliksx/image/upload/v1766798242/4k_lpa2om.png" alt="App Mockup" width="100%">
+</p>
+
+<p align="center">
+  <a href="#-overview">Overview</a> •
   <a href="#-app-features">Features</a> •
   <a href="#-problems-solved">Problem & Solution</a> •
   <a href="#-screenshots--themes">Screenshots</a> •
   <a href="#-getting-started">Getting Started</a> •
-  <a href="#-tech-stack">Tech Stack</a>
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-contributing">Contributing</a>
 </p>
 
 ---
 
 ## 📖 Overview
 
-Transform your fashion shopping experience with our sleek, user-friendly mobile application. Browse curated collections, discover latest trends, and complete purchases seamlessly—all from the palm of your hand.
+Transform your fashion shopping experience with this mobile app. Browse curated collections, discover trends, and complete purchases in a simple, user-friendly interface.
 
 ---
 
@@ -30,16 +41,16 @@ Transform your fashion shopping experience with our sleek, user-friendly mobile 
 
 | Feature | Description |
 |---------|-------------|
-| 👗 **Latest Trends** | Explore curated collections and new arrivals |
+| 👗 **Latest Trends** | Curated collections and new arrivals |
 | 🔍 **Smart Browsing** | Filter by category, size, color, and style |
-| 📸 **Product Details** | View high-quality images, prices, and size options |
-| 🛒 **Easy Cart & Checkout** | Add items and complete purchases securely |
-| ❤️ **Wishlist** | Save favorite styles for later |
-| 👤 **User Profile** | Manage account, orders, and preferences |
-| 🔔 **Notifications** | Get alerts on sales, new arrivals, and order updates |
-| 🔎 **Search Function** | Quick search by brand, product name, or keyword |
-| ⭐ **Product Reviews** | Read and write reviews |
-| 📦 **Order History** | View past purchases and reorder easily |
+| 📸 **Product Details** | High-quality images, prices, and size options |
+| 🛒 **Cart & Checkout** | Add items and checkout with secure payment |
+| ❤️ **Wishlist** | Save favorites for later |
+| 👤 **User Profile** | Account, orders, and preferences |
+| 🔔 **Notifications** | Alerts on sales, new arrivals, and orders |
+| 🔎 **Search** | Search by brand, product name, or keyword |
+| ⭐ **Reviews** | Read and write product reviews |
+| 📦 **Order History** | View past orders and reorder easily |
 
 ---
 
@@ -47,17 +58,17 @@ Transform your fashion shopping experience with our sleek, user-friendly mobile 
 
 | Before ❌ | After ✅ |
 |-----------|----------|
-| Hard to find clothes | Easy browsing with smart filters |
-| Unclear sizes | Detailed product info with size guides |
-| Slow checkout | Fast, streamlined checkout process |
-| No order tracking | Real-time order tracking |
-| Generic experience | Personalized shopping recommendations |
+| Hard to find clothes | Browsing with filters |
+| Unclear sizes | Product info with size guides |
+| Slow checkout | Streamlined checkout |
+| No order tracking | Order tracking |
+| Generic experience | Personalized recommendations |
 
 ---
 
 ## 📱 Screenshots & Themes
 
-The app supports both **Light** and **Dark** themes for a comfortable viewing experience in any environment.
+The app supports **Light** and **Dark** themes.
 
 ### ☀️ Light Theme
 
@@ -127,8 +138,10 @@ The app supports both **Light** and **Dark** themes for a comfortable viewing ex
 
 ### Prerequisites
 
-- [Flutter](https://flutter.dev) (or your preferred framework)
+- [Flutter](https://flutter.dev) (3.x or higher)
+- Dart 3.x
 - iOS Simulator / Android Emulator or physical device
+- Xcode (for iOS) or Android Studio (for Android)
 
 ### Installation
 
